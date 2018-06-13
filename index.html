@@ -49,7 +49,10 @@
       'https://oim.mapfre.com.pe/AppPolice/KML/CPNP_CHACRA_COLORADA.kml',
       'https://oim.mapfre.com.pe/AppPolice/KML/CPNP_MIRAFLORES.kml',
       'https://oim.mapfre.com.pe/AppPolice/KML/CPNP_BREÑA.kml',
-      'https://oim.mapfre.com.pe/AppPolice/KML/CPNP_CHACRA_COLORADA.kml'
+      // 8
+      'https://oim.mapfre.com.pe/AppPolice/KML/CPNP_CHACRA_COLORADA.kml',
+      'https://raw.githubusercontent.com/kevinrodbe/kml/master/CPNP_BRE%C3%91A.kml',
+      'https://raw.githubusercontent.com/kevinrodbe/kml/master/CPNP_CHACRA_COLORADA.kml'
     ];
 
     function initMap() {
@@ -60,7 +63,7 @@
         mapTypeId: 'terrain'
       });
 
-      var kmlLayer = new google.maps.KmlLayer(src[6], {
+      var kmlLayer = new google.maps.KmlLayer(src[9], {
         suppressInfoWindows: false,
         preserveViewport: false,
         map: map
