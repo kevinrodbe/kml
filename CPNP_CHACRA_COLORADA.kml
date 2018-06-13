@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CPNP CHACRA COLORADA.kml</name>
+	<Style id="failed">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="failed0">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="failed1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="ID_00823">
+		<name>CPNP CHACRA COLORADA</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CPNP CHACRA COLORADA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>COMISARIA</td>
+
+<td>CPNP CHACRA COLORADA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>COD_INEI</td>
+
+<td>5010</td>
+
+</tr>
+
+<tr>
+
+<td>DEPARTAMENTO</td>
+
+<td>LIMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+</tr>
+
+<tr bgcolor="#D4E4F3"></tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#failed1</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-77.04210044699994,-12.06003031699993,0 -77.04195928299998,-12.05981989299994,0 -77.04190464499999,-12.05979187599996,0 -77.04160972299997,-12.05964064999995,0 -77.04261612499994,-12.04816210499996,0 -77.04269476399998,-12.04725616899998,0 -77.04273144199993,-12.04683363799995,0 -77.04261450599995,-12.04679145099993,0 -77.04251576299998,-12.04674554399998,0 -77.04243858699994,-12.04666002099998,0 -77.04236092199994,-12.04650993599995,0 -77.04232527999994,-12.04632683499995,0 -77.04232503399999,-12.04629422999994,0 -77.04233084599997,-12.04624070599994,0 -77.04234858699994,-12.04617720599998,0 -77.04237852999995,-12.04612079099996,0 -77.04241337599996,-12.04607031699993,0 -77.04247247999996,-12.04601488399993,0 -77.04253778399999,-12.04597614399995,0 -77.04261168099998,-12.04594929799993,0 -77.04271594499994,-12.04592222999997,0 -77.04280458999995,-12.04591799299993,0 -77.04288965399996,-12.04592215299994,0 -77.04296628799995,-12.04593593899995,0 -77.04301137599998,-12.04595473899997,0 -77.04307240899999,-12.04599374899993,0 -77.04311891999998,-12.04604003899993,0 -77.04314595899996,-12.04608168899995,0 -77.04317423199996,-12.04612572099995,0 -77.04319277799993,-12.04616862899997,0 -77.04321018099995,-12.04622111099997,0 -77.04322392299997,-12.04627122799997,0 -77.04323903299996,-12.04634166199998,0 -77.04323864799994,-12.04638267799993,0 -77.04323836099997,-12.04641340699993,0 -77.05371865199999,-12.04747664899998,0 -77.05395467899996,-12.04750059599996,0 -77.05395465499998,-12.04750080599996,0 -77.05395181999995,-12.04752621499995,0 -77.05391906499995,-12.04781973599995,0 -77.05378525699996,-12.04901880399996,0 -77.05371868799995,-12.04902961499994,0 -77.05469912349692,-12.05117836169922,0 -77.05503612396281,-12.05191618115958,0 -77.05556980899996,-12.05284524199993,0 -77.05579463799995,-12.05311809499995,0 -77.05624929699997,-12.05366986699994,0 -77.05755835561466,-12.05545556506199,0 -77.05675091199998,-12.05569238799995,0 -77.05587730899998,-12.05595270399994,0 -77.04586904599995,-12.05895632999994,0 -77.04210373799998,-12.06008624899994,0 -77.04210044699994,-12.06003031699993,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
